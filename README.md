@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Ashwin S | AI Developer<br>Building intelligent systems using Machine Learning & Deep Learning. Passionate about solving real-world problems through AI, hackathons, and innovative tech projects.
 
 
